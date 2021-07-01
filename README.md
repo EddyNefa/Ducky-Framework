@@ -1,0 +1,18 @@
+# Ducky-Framework
+This is a framework that let you choose from a list of payloads
+
+Every payload is form hak5darren repo
+
+
+# The Ducky Fuzzer:
+This mode let you use any file and convert it to a payload which writes it's lines
+
+
+# Setup:
+Only exec the setup.py file and you are ready to go!
+
+
+
+
+
+use it at your own risk!
