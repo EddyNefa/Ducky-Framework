@@ -15,4 +15,4 @@ Only exec the setup.py file and you are ready to go!
 
 
 
-use it at your own risk!
+Use it at your own risk!
