@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#usage
-#write a ducky bruteforce lock-screen script
 file="$1"
 pay="payload.txt"
 touch payload.txt
