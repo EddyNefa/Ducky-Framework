@@ -1,4 +1,4 @@
-![ducky](https://github.com/EddyNefa/Ducky-Framework/blob/master/ducky.jpg)
+![ducky](https://github.com/EddyNefa/Ducky-Framework/blob/master/ducky.png)
 # Ducky-Framework
 This is a framework that let you choose from a list of payloads
 
